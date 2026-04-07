@@ -71,7 +71,7 @@ int main() {
     // Print the array
     printArray(data, ROWS);
 
-    cout << "\nColumn totals:\n";
+    cout << "-------------------------------\n";
     // Print totals of each column
     printTotals(data, ROWS);
 
